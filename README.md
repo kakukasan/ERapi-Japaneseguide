@@ -1,0 +1,2 @@
+# ERapi-Japaneseguide
+EternalReturnというゲームのapi一部日本語化した資料
