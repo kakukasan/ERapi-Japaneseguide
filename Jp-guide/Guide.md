@@ -16,20 +16,20 @@
 
 ## Link
 
-- [CharacterStatus](./CharacterStatus.md)
+- [CharacterStatus](./Pages/CharacterStatus.md)
 
   - UserDataの内部で利用されている
   - 自分の利用した実験体のスタッツが取得される
 
-- [UserData](./UserData.md)
+- [UserData](./Pages/UserData.md)
 
   - 自分のデータについて。ユーザーとシーズンIDを入れた際のデータについて記載。
 
-- [MatchData](MatchData.md)
+- [MatchData](./Pages/MatchData.md)
 
   - 1試合の合計データを取得した時に利用する
 
-- [OtherData](OtherData.md) (Work in progress)
+- [OtherData](./Pages/OtherData.md) (Work in progress)
 
   - 上記3ファイル以外のデータ
   - 各素材や武器、装備位置や拾い物等のID
