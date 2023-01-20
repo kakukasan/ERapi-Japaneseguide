@@ -7,6 +7,7 @@
 
 本リポジトリ修正や提案については歓迎しているため、プルリクエストやイシューにて承ります。
 
+ガイドページは[こちら](./Jp-guide/Guide.md)
 
 
 It is a Japanese translation of what I think I need from the English content of [EternalReturn DeveloperPortal](https://developer.eternalreturn.io/static/media/Docs_EN_20221107.pdf), and it is not necessarily the latest at the time of confirmation.
